@@ -1,0 +1,15 @@
+date,household_consumption_kwh,solar_generation_kwh,weather_note
+2026-10-01,12.4,16.2,Sunny
+2026-10-02,13.1,15.4,Partly Cloudy
+2026-10-03,11.8,17.1,Sunny
+2026-10-04,13.1,13.8,Cloudy
+2026-10-05,15.0,12.6,Cloudy
+2026-10-06,12.7,16.0,Sunny
+2026-10-07,13.6,14.8,Partly Cloudy
+2026-10-08,11.9,17.4,Sunny
+2026-10-09,14.5,15.4,Cloudy
+2026-10-10,13.8,14.1,Partly Cloudy
+2026-10-11,12.2,16.8,Sunny
+2026-10-12,15.4,11.9,Cloudy
+2026-10-13,14.1,13.5,Partly Cloudy
+2026-10-14,13.0,15.7,Sunny
